@@ -52,6 +52,7 @@ This repository uses code directly from the [DingXiaoH/RepVGG](https://github.co
 
 
 # Part II: Music Generation 
+This repository is a fork of https://github.com/kiecodes/generate-music.git 
 
 ## Melody creation using Genetic Algorithm
 <p align="center">
